@@ -16,7 +16,7 @@ numbers = []
 strings = []
 names = ["John", "Eric", "Jessica"]
 
-second_name = None;
+second_name = None
 
 numbers.append(1)
 numbers.append(2)
