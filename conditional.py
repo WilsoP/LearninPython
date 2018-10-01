@@ -1,7 +1,0 @@
-<!doctype html>
-  {% if name %}
-    <h1> Hello {{ name }} !</h1>
-  {% else %}
-    <h1> hello from Napier! </h1>
-  {% end if %}
-</html>
